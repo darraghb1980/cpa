@@ -1,0 +1,54 @@
+<style type="text/css">
+
+span { color:red; cursor:pointer; }
+
+div { margin:3px; width:80px; display:none;
+      height:80px; float:left; }
+	  
+div#apDiv1 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:1;
+}
+div#apDiv2 {s
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:2;
+	left: 540px;
+	top: 170px;
+}
+div#apDiv3 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:3;
+	left: 600px;
+	top: 245px;
+}
+div#apDiv4 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:4;
+	left: 660px;
+	top: 200px;
+}
+div#apDiv5 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:5;
+	left: 223px;
+	top: 41px;
+}
+div#apDiv6 {
+	position:absolute;
+	width:200px;
+	height:115px;
+	z-index:6;
+	left: 800px;
+	top: 460px;
+}
+</style>
